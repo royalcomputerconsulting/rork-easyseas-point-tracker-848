@@ -1,0 +1,46 @@
+👉 Log in, open Offer 9 panel. Press Q to scrape; auto-stops after Offer 1.
+🔎 Scraping Last Chance Pays
+Attempt 1: Headers → {'Interior': 27, 'Balcony': 26} | Scraped → {'Interior': 27, 'Balcony': 26}
+✅ Counts match.
+💾 Saved → exports/09_LastChancePays.xlsx (53 rows)
+✅ Last Chance Pays complete. Press Q for September Monthly Mix
+🔎 Scraping September Monthly Mix
+Attempt 1: Headers → {'Ocean View': 39, 'Interior': 27, 'Balcony': 26} | Scraped → {'Ocean View': 39, 'Interior': 27, 'Balcony': 26}
+✅ Counts match.
+💾 Saved → exports/08_SeptemberMonthlyMix.xlsx (92 rows)
+✅ September Monthly Mix complete. Press Q for Queen of Hearts
+🔎 Scraping Queen of Hearts
+Attempt 1: Headers → {'Interior': 27, 'Ocean View': 39, 'Balcony': 26} | Scraped → {'Interior': 27, 'Ocean View': 39, 'Balcony': 26}
+✅ Counts match.
+💾 Saved → exports/07_QueenofHearts.xlsx (92 rows)
+✅ Queen of Hearts complete. Press Q for Payline Paradise
+🔎 Scraping Payline Paradise
+Attempt 1: Headers → {'Balcony': 26, 'Interior': 27, 'Ocean View': 39} | Scraped → {'Balcony': 26, 'Interior': 27, 'Ocean View': 39}
+✅ Counts match.
+💾 Saved → exports/06_PaylineParadise.xlsx (92 rows)
+✅ Payline Paradise complete. Press Q for Quick Getaways
+🔎 Scraping Quick Getaways
+Attempt 1: Headers → {'Interior': 27, 'Balcony': 26, 'Ocean View': 39} | Scraped → {'Interior': 27, 'Balcony': 26, 'Ocean View': 39}
+✅ Counts match.
+💾 Saved → exports/05_QuickGetaways.xlsx (92 rows)
+✅ Quick Getaways complete. Press Q for Odds on October
+🔎 Scraping Odds on October
+Attempt 1: Headers → {'Ocean View': 39, 'Interior': 27, 'Balcony': 26} | Scraped → {'Ocean View': 39, 'Interior': 27, 'Balcony': 26}
+✅ Counts match.
+💾 Saved → exports/04_OddsonOctober.xlsx (92 rows)
+✅ Odds on October complete. Press Q for Longtime Paylines
+🔎 Scraping Longtime Paylines
+Attempt 1: Headers → {'Interior': 27, 'Balcony': 26, 'Ocean View': 39} | Scraped → {'Interior': 27, 'Balcony': 26, 'Ocean View': 39}
+✅ Counts match.
+💾 Saved → exports/03_LongtimePaylines.xlsx (92 rows)
+✅ Longtime Paylines complete. Press Q for 2025 August Instant Rewards
+🔎 Scraping 2025 August Instant Rewards
+Attempt 1: Headers → {'Ocean View': 39, 'Balcony': 26, 'Interior': 27} | Scraped → {'Ocean View': 39, 'Balcony': 26, 'Interior': 27}
+✅ Counts match.
+💾 Saved → exports/02_2025AugustInstantRewards.xlsx (92 rows)
+✅ 2025 August Instant Rewards complete. Press Q for 2025 August Instant Rewards
+🔎 Scraping 2025 August Instant Rewards
+Attempt 1: Headers → {'Ocean View': 39, 'Balcony': 26, 'Interior': 27} | Scraped → {'Ocean View': 39, 'Balcony': 26, 'Interior': 27}
+✅ Counts match.
+💾 Saved → exports/01_2025AugustInstantRewards.xlsx (92 rows)
+✅ All 9 offers done. Exiting.

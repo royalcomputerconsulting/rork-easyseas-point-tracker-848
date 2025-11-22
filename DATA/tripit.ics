@@ -1,0 +1,1191 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Scott Merlis (TripIt)
+X-WR-CALDESC:TripIt Calendar
+X-PUBLISHED-TTL:PT15M
+PRODID:-//John Papaioannou/NONSGML Bennu 0.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:aaa07d8f-c9e6-9000-0001-000015933656@tripit.com
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250724
+SUMMARY:Atlantis - Lisbon\, Portugal\, July 2025 - Virgin Scarlet Lady
+LOCATION:Lisbon\, Portugal
+GEO:38.72509;-9.1498
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Lisbon\, Portugal from Jul 5 to 23\, 2025\n
+ View and/or edit details in TripIt : https://www.tripit.com/trip/show?id=3
+ 61969238\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250708T212900Z
+SUMMARY:AA2301 PHX to PHL
+LOCATION:Phoenix (PHX)
+UID:item-8a054906-09d4-9000-0003-00012d94dba1@tripit.com
+DTSTART:20250708T164300Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nTue\, Jul 8\n9:43 AM MST\n[Flight] PHX to PHL\n
+  \n\nAmerican Airlines 2301\, Terminal 4\, Gate B14\n \n\n5:11 PM EDT\nArr
+ ive Philadelphia (PHL)\nTerminal B\, Gate B9\n \n\n \nTripIt - organize yo
+ ur travel at https://www.tripit.com
+GEO:39.95238;-75.16362
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250708T212900Z
+SUMMARY:AA2301 PHX to PHL
+LOCATION:Phoenix (PHX)
+UID:item-8d429258-3cc9-9000-0003-00012dbba05d@tripit.com
+DTSTART:20250708T164300Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n9:43 AM MST\n[Flight] PHX to PHL\n \n\nAmerican
+  Airlines 2301\, Terminal 4\, Gate B14\n \n\n5:11 PM EDT\nArrive Philadelp
+ hia (PHL)\nTerminal B\, Gate B9\n \n\n \nTripIt - organize your travel at 
+ https://www.tripit.com
+GEO:39.95238;-75.16362
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250709T070500Z
+SUMMARY:AA742 PHL to BCN
+LOCATION:Philadelphia (PHL)
+UID:item-df353ae0-aba1-9000-0003-00012d94dba5@tripit.com
+DTSTART:20250708T231000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n7:10 PM EDT\n[Flight] PHL to BCN\n \n\nAmerican
+  Airlines 742\, Terminal \, Gate \n \n\n \nWed\, Jul 9\n9:05 AM CEST\nArri
+ ve Barcelona (BCN)\nTerminal T1\, Gate \n \n\n \nTripIt - organize your tr
+ avel at https://www.tripit.com
+GEO:41.38879;2.15899
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250709T070500Z
+SUMMARY:AA742 PHL to BCN
+LOCATION:Philadelphia (PHL)
+UID:item-a1ea530c-74a4-9000-0003-00012dbba061@tripit.com
+DTSTART:20250708T231000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nTue\, Jul 8\n7:10 PM EDT\n[Flight] PHL to BCN\n
+  \n\nAmerican Airlines 742\, Terminal \, Gate \n \n\n \nWed\, Jul 9\n9:05 
+ AM CEST\nArrive Barcelona (BCN)\nTerminal \, Gate \n \n\n \nTripIt - organ
+ ize your travel at https://www.tripit.com
+GEO:41.38879;2.15899
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+SUMMARY:Check-in: Axel TWO Barcelona 4 Sup - Adults Only
+TRANSP:TRANSPARENT
+UID:item-bae11947-0e0c-9000-0003-00012da46d75@tripit.com
+DTSTART:20250709T130000Z
+DTEND:20250709T140000Z
+LOCATION:Calabria 90-92\, Eixample\, 08015 Barcelona\, Spain
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n3:00 PM CEST\n[Lodging] Arrive Axel TWO Barcelo
+ na 4 Sup - Adults Only\nCheck-In: 3:00pm\nCalabria 90-92\, Eixample\, 0801
+ 5 Barcelona\, Spain\n+34 935 39 23 13\n \n\n \nTripIt - organize your trav
+ el at https://www.tripit.com
+GEO:41.3791505;2.1561137
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-12b43d7b-5302-9000-0003-00012e4f0849@tripit.com
+DTSTART:20250710T190000Z
+DTEND:20250710T200000Z
+SUMMARY:ABANIC
+LOCATION:Carrer del Rosselló\, 207\, Eixample\, 08008 Barcelona\, Spain
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nThu\, Jul 10\n9:00 PM CEST\n[Restaurant] ABANIC
+ \nCarrer del Rosselló\, 207\, Eixample\, 08008 Barcelona\, Spain\n+34 602 
+ 49 12 94\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:41.3928792;2.1563758
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-797753f8-d73a-9000-0003-00012e4ef345@tripit.com
+DTSTART:20250711T190000Z
+DTEND:20250711T200000Z
+SUMMARY:Restaurant L'Olivé
+LOCATION:Carrer de Balmes\, 47\, Barcelona\, CT 08007\, ES
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nFri\, Jul 11\n9:00 PM CEST\n[Restaurant] Restau
+ rant L'Olivé\nCarrer de Balmes\, 47\, Barcelona\, CT 08007\, ES\n \n\n \nT
+ ripIt - organize your travel at https://www.tripit.com
+GEO:41.3890372;2.1625616
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:Barcelona\; Barcelona
+UID:item-6ca7fe2e-5913-9000-0003-0001246f2f25@tripit.com
+DTSTART;VALUE=DATE:20250713
+DTEND;VALUE=DATE:20250714
+TRANSP:TRANSPARENT
+SUMMARY:Embark - Cruise
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nSun\, Jul 13\n  \n[Cruise] Embark - Cruise\nVir
+ gin Scarlet Lady\nBarcelona\, Barcelona\n \n\n \nTripIt - organize your tr
+ avel at https://www.tripit.com
+GEO:41.38879;2.15899
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+SUMMARY:Check-out: Axel TWO Barcelona 4 Sup - Adults Only
+TRANSP:TRANSPARENT
+UID:item-786ca3b2-073b-9000-0003-00012da46d79@tripit.com
+DTSTART:20250713T100000Z
+DTEND:20250713T110000Z
+LOCATION:Calabria 90-92\, Eixample\, 08015 Barcelona\, Spain
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n12:00 PM CEST\n[Lodging] Depart Axel TWO Barcel
+ ona 4 Sup - Adults Only\nCheck-Out: 12:00pm\nCalabria 90-92\, Eixample\, 0
+ 8015 Barcelona\, Spain\n+34 935 39 23 13\n \n\n \nTripIt - organize your t
+ ravel at https://www.tripit.com
+GEO:41.3791505;2.1561137
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:
+UID:item-5cfb6ecf-23f7-9000-0003-00012a3e2499@tripit.com
+DTSTART:20250713T114500Z
+DTEND:20250713T124500Z
+SUMMARY:Embark - Atlantis
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n1:45 PM CEST\n[Cruise] Embark - Atlantis\nAtlan
+ tis\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:Lisbon\; Lisbon
+UID:item-380bc31f-0427-9000-0003-0001246f2f2d@tripit.com
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+TRANSP:TRANSPARENT
+SUMMARY:Disembark - Cruise
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nTue\, Jul 22\n  \n[Cruise] Disembark - Cruise\n
+ Virgin Scarlet Lady\nLisbon\, Lisbon\n \n\n \nTripIt - organize your trave
+ l at https://www.tripit.com
+GEO:38.71667;-9.13333
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:
+UID:item-e8396521-fe97-9000-0003-00012a3e249d@tripit.com
+DTSTART:20250722T050000Z
+DTEND:20250722T060000Z
+SUMMARY:Disembark - Atlantis
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n7:00 AM CEST\n[Cruise] Disembark - Atlantis\nAt
+ lantis\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250722T104000Z
+SUMMARY:TP1012 LIS to MAD
+LOCATION:Lisbon (LIS)
+UID:item-3b8159ff-61f8-9000-0003-00012da7e319@tripit.com
+DTSTART:20250722T092000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n10:20 AM WEST\n[Flight] LIS to MAD\n \n\nTAP Ai
+ r Portugal 1012\, Terminal 1\, Gate \n \n\n12:40 PM CEST\nArrive Madrid (M
+ AD)\nTerminal 2\, Gate \n \n\n \nTripIt - organize your travel at https://
+ www.tripit.com
+GEO:40.4165;-3.70256
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+SUMMARY:Check-in: Pestana Plaza Mayor Madrid
+TRANSP:TRANSPARENT
+UID:item-fd141496-5f89-9000-0003-00012da7e191@tripit.com
+DTSTART:20250722T130000Z
+DTEND:20250722T140000Z
+LOCATION:Calle Imperial 8\, Centro\, Madrid\, 28012\, Spain
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n3:00 PM CEST\n[Lodging] Arrive Pestana Plaza Ma
+ yor Madrid\nCheck-In: 3:00pm\nCalle Imperial 8\, Centro\, Madrid\, 28012\,
+  Spain\n+34 910 05 28 22\n \n\n \nTripIt - organize your travel at https:/
+ /www.tripit.com
+GEO:40.4147437;-3.7072621
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250722T193000Z
+LOCATION:C. de Segovia\, 8 28005 Madrid Spain
+UID:item-7584da03-dfbf-9000-0003-00012d6d5bad@tripit.com
+DTSTART:20250722T180000Z
+SUMMARY:Reservation at Arroceria D'stapa Madrid
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n6:00 PM UTC\n[Meeting] Reservation at Arroceria
+  D'stapa Madrid\nC. de Segovia\, 8 28005 Madrid Spain\n6:00pm to 7:30pm\n 
+ \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:40.4136416;-3.7103929
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250723T094500Z
+SUMMARY:IB409 MAD to BCN
+LOCATION:Madrid (MAD)
+UID:item-1d586d33-0bee-9000-0003-00012d6d2cd5@tripit.com
+DTSTART:20250723T083000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\nWed\, Jul 23\n10:30 AM CEST\n[Flight] MAD to BC
+ N\n \n\nIberia 409\, Terminal \, Gate \n \n\n11:45 AM CEST\nArrive Barcelo
+ na (BCN)\nTerminal \, Gate \, 2h\, 15m layover\n \n\n \nTripIt - organize 
+ your travel at https://www.tripit.com
+GEO:41.38879;2.15899
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+SUMMARY:Check-out: Pestana Plaza Mayor Madrid
+TRANSP:TRANSPARENT
+UID:item-d82a7be9-4110-9000-0003-00012da7e195@tripit.com
+DTSTART:20250723T100000Z
+DTEND:20250723T110000Z
+LOCATION:Calle Imperial 8\, Centro\, Madrid\, 28012\, Spain
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n12:00 PM CEST\n[Lodging] Depart Pestana Plaza M
+ ayor Madrid\nCheck-Out: 12:00pm\nCalle Imperial 8\, Centro\, Madrid\, 2801
+ 2\, Spain\n+34 910 05 28 22\n \n\n \nTripIt - organize your travel at http
+ s://www.tripit.com
+GEO:40.4147437;-3.7072621
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250723T204500Z
+SUMMARY:AA743 BCN to PHL
+LOCATION:Barcelona (BCN)
+UID:item-daa8957c-80e1-9000-0003-00012d6d2cd9@tripit.com
+DTSTART:20250723T120000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n2:00 PM CEST\n[Flight] BCN to PHL\n \n\nAmerica
+ n Airlines 743\, Terminal \, Gate \n \n\n4:45 PM EDT\nArrive Philadelphia 
+ (PHL)\nTerminal \, Gate \n \n\n \nTripIt - organize your travel at https:/
+ /www.tripit.com
+GEO:39.95238;-75.16362
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250724T062200Z
+SUMMARY:AA2911 PHL to PHX
+LOCATION:Philadelphia (PHL)
+UID:item-e6c10fe9-0b8e-9000-0003-00012d6d2cdd@tripit.com
+DTSTART:20250724T011500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/361969238\n \n\n9:15 PM EDT\n[Flight] PHL to PHX\n \n\nAmerican
+  Airlines 2911\, Terminal \, Gate \n \n\n11:22 PM MST\nArrive Phoenix (PHX
+ )\nTerminal \, Gate \n \n\n \nTripIt - organize your travel at https://www
+ .tripit.com
+GEO:33.44838;-112.07404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:c4b93d17-39fa-9000-0001-000015acba65@tripit.com
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250805
+SUMMARY:Ovation Of The Seas / - Los Angeles\, CA\, July 2025
+LOCATION:Ensenada\, Mexico
+GEO:31.87149;-116.60071
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Ensenada\, Mexico from Jul 29 to Aug 4\, 20
+ 25\nView and/or edit details in TripIt : https://www.tripit.com/trip/show?
+ id=363641445\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250729T161100Z
+SUMMARY:AA1668 PHX to LAX
+LOCATION:Phoenix (PHX)
+UID:item-a385707b-07cb-9000-0003-00012db4fda9@tripit.com
+DTSTART:20250729T144000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\nTue\, Jul 29\n7:40 AM MST\n[Flight] PHX to LAX\
+ n \n\nAmerican Airlines 1668\, Terminal 4\, Gate A12\n \n\n8:55 AM PDT\nAr
+ rive Los Angeles (LAX)\nTerminal 4\, Gate 46C\n \n\n \nTripIt - organize y
+ our travel at https://www.tripit.com
+GEO:34.05223;-118.24368
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250729T161100Z
+SUMMARY:AA1668 PHX to LAX
+LOCATION:Phoenix (PHX)
+UID:item-314ec760-af07-9000-0003-00012fc3cf45@tripit.com
+DTSTART:20250729T144000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\n7:40 AM MST\n[Flight] PHX to LAX\n \n\nAmerican
+  Airlines 1668\, Terminal 4\, Gate A12\n \n\n8:55 AM PDT\nArrive Los Angel
+ es (LAX)\nTerminal 4\, Gate 46C\n \n\n \nTripIt - organize your travel at 
+ https://www.tripit.com
+GEO:34.05223;-118.24368
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-36a87e68-c626-9000-0003-00012732cbfd@tripit.com
+DTSTART:20250729T230000Z
+DTEND:20250730T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\n4:00 PM PDT\n[Cruise] Embark - Royal Caribbean\
+ nOVATION OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELES\, CALIFORNIA\
+ n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-06c46779-9ed5-9000-0003-00012732cc01@tripit.com
+DTSTART:20250730T140000Z
+DTEND:20250730T150000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\nWed\, Jul 30\n7:00 AM PDT\n[Port Of Call] Port 
+ Of Call - ENSENADA\, MEXICO\nOVATION OF THE SEAS\nENSENADA\, MEXICO\, ENSE
+ NADA\, MEXICO\n5:00 PM PDT\nDepart ENSENADA\, MEXICO\nAll times displayed 
+ on this itinerary are local.\n \n\nTripIt - organize your travel at https:
+ //www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-49e8268d-58ef-9000-0003-00012732cc09@tripit.com
+DTSTART:20250801T140000Z
+DTEND:20250801T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\nFri\, Aug 1\n7:00 AM PDT\n[Cruise] Disembark - 
+ Royal Caribbean\nOVATION OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGEL
+ ES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.trip
+ it.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250804T184500Z
+SUMMARY:AA2312 LAX to PHX
+LOCATION:Los Angeles (LAX)
+UID:item-ba9f4b37-a15e-9000-0003-00012fc3cf49@tripit.com
+DTSTART:20250804T171500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363641445\n \n\nMon\, Aug 4\n10:15 AM PDT\n[Flight] LAX to PHX\
+ n \n\nAmerican Airlines 2312\, Terminal \, Gate \n \n\n11:45 AM MST\nArriv
+ e Phoenix (PHX)\nTerminal \, Gate \n \n\n \nTripIt - organize your travel 
+ at https://www.tripit.com
+GEO:33.44838;-112.07404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:47420c42-fefc-9000-0001-000015c85383@tripit.com
+DTSTART;VALUE=DATE:20250729
+DTEND;VALUE=DATE:20250805
+SUMMARY:Navigator Of The Seas
+LOCATION:Los Angeles\, CA
+GEO:34.05223;-118.24368
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Los Angeles\, CA from Jul 29 to Aug 4\, 202
+ 5\nView and/or edit details in TripIt : https://www.tripit.com/trip/show?i
+ d=365450115\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-9b84bb04-e049-9000-0003-000127d59129@tripit.com
+DTSTART:20250801T230000Z
+DTEND:20250802T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365450115\n \n\nFri\, Aug 1\n4:00 PM PDT\n[Cruise] Embark - Roy
+ al Caribbean\nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELE
+ S\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.tripi
+ t.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-7ccba52e-4dba-9000-0003-000127d5912d@tripit.com
+DTSTART:20250803T150000Z
+DTEND:20250803T160000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365450115\n \n\nSun\, Aug 3\n8:00 AM PDT\n[Port Of Call] Port O
+ f Call - ENSENADA\, MEXICO\nNAVIGATOR OF THE SEAS\nENSENADA\, MEXICO\, ENS
+ ENADA\, MEXICO\n5:00 PM PDT\nDepart ENSENADA\, MEXICO\nAll times displayed
+  on this itinerary are local.\n \n\nTripIt - organize your travel at https
+ ://www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-151d8dbf-5935-9000-0003-000127d59131@tripit.com
+DTSTART:20250804T140000Z
+DTEND:20250804T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365450115\n \n\nMon\, Aug 4\n7:00 AM PDT\n[Cruise] Disembark - 
+ Royal Caribbean\nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANG
+ ELES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.tr
+ ipit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:d6eac7f0-6ed8-9000-0001-000015cf0c57@tripit.com
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250826
+SUMMARY:Navigator Of The Seas -Los Angeles\, CA\, August 2025
+LOCATION:Ensenada\, Mexico
+GEO:31.87149;-116.60071
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Ensenada\, Mexico from Aug 22 to 25\, 2025\
+ nView and/or edit details in TripIt : https://www.tripit.com/trip/show?id=
+ 365890647\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250822T155300Z
+SUMMARY:AA1998 PHX to LAX
+LOCATION:Phoenix (PHX)
+UID:item-b2cd17aa-93ad-9000-0003-00013162a8e9@tripit.com
+DTSTART:20250822T142600Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365890647\n \n\nFri\, Aug 22\n7:26 AM MST\n[Flight] PHX to LAX\
+ n \n\nAmerican Airlines 1998\, Terminal \, Gate \n \n\n8:53 AM PDT\nArrive
+  Los Angeles (LAX)\nTerminal \, Gate \n \n\n \nTripIt - organize your trav
+ el at https://www.tripit.com
+GEO:34.05223;-118.24368
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-9300662d-f25f-9000-0003-00012aced081@tripit.com
+DTSTART:20250822T230000Z
+DTEND:20250823T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365890647\n \n\n4:00 PM PDT\n[Cruise] Embark - Royal Caribbean\
+ nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELES\, CALIFORNI
+ A\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-fdbce3e4-92d3-9000-0003-00012aced085@tripit.com
+DTSTART:20250823T150000Z
+DTEND:20250823T160000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365890647\n \n\nSat\, Aug 23\n8:00 AM PDT\n[Port Of Call] Port 
+ Of Call - ENSENADA\, MEXICO\nNAVIGATOR OF THE SEAS\nENSENADA\, MEXICO\, EN
+ SENADA\, MEXICO\n5:00 PM PDT\nDepart ENSENADA\, MEXICO\nAll times displaye
+ d on this itinerary are local.\n \n\nTripIt - organize your travel at http
+ s://www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-a77ae8e7-72c3-9000-0003-00012aced089@tripit.com
+DTSTART:20250825T140000Z
+DTEND:20250825T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365890647\n \n\nMon\, Aug 25\n7:00 AM PDT\n[Cruise] Disembark -
+  Royal Caribbean\nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS AN
+ GELES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.t
+ ripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250825T182600Z
+SUMMARY:AA1668 LAX to PHX
+LOCATION:Los Angeles (LAX)
+UID:item-5f2e880f-4d5c-9000-0003-00013162a8ed@tripit.com
+DTSTART:20250825T170000Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365890647\n \n\n10:00 AM PDT\n[Flight] LAX to PHX\n \n\nAmerica
+ n Airlines 1668\, Terminal 5\, Gate 53B\n \n\n11:36 AM MST\nArrive Phoenix
+  (PHX)\nTerminal 4\, Gate B9\n \n\n \nTripIt - organize your travel at htt
+ ps://www.tripit.com
+GEO:33.44838;-112.07404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:480fb717-ac92-9000-0001-0000160cad58@tripit.com
+DTSTART;VALUE=DATE:20250826
+DTEND;VALUE=DATE:20250901
+SUMMARY:Star Of The Seas Orlando\, FL\, August 2025
+LOCATION:Orlando\, FL
+GEO:28.53834;-81.37924
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Orlando\, FL from Aug 26 to 31\, 2025\nView
+  and/or edit details in TripIt : https://www.tripit.com/trip/show?id=36992
+ 9560\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250826T202700Z
+SUMMARY:AA2226 PHX to MCO
+LOCATION:Phoenix (PHX)
+UID:item-cb71c033-f214-9000-0003-00013164da4d@tripit.com
+DTSTART:20250826T155500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/369929560\n \n\nTue\, Aug 26\n8:55 AM MST\n[Flight] PHX to MCO\
+ n \n\nAmerican Airlines 2226\, Terminal 4\, Gate A22\n \n\n4:03 PM EDT\nAr
+ rive Orlando (MCO)\nTerminal B\, Gate 57\n \n\n \nTripIt - organize your t
+ ravel at https://www.tripit.com
+GEO:28.53834;-81.37924
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:ORLANDO (PORT CANAVERAL)\, FL\; ORLANDO (PORT CANAVERAL)\, FL
+UID:item-4e7e0e62-3741-9000-0003-0001316502e1@tripit.com
+DTSTART:20250827T203000Z
+DTEND:20250827T213000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/369929560\n \n\nWed\, Aug 27\n4:30 PM EDT\n[Cruise] Embark - Ro
+ yal Caribbean\nSTAR OF THE SEAS\nORLANDO (PORT CANAVERAL)\, FL\, ORLANDO (
+ PORT CANAVERAL)\, FL\n \n\n \nTripIt - organize your travel at https://www
+ .tripit.com
+GEO:28.5383832;-81.3789269
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-4f230f06-ef8b-9000-0003-000131650319@tripit.com
+DTSTART:20250829T110000Z
+DTEND:20250829T120000Z
+SUMMARY:Port Of Call - PERFECT DAY COCOCAY\, BAHAMAS
+LOCATION:PERFECT DAY COCOCAY\, BAHAMAS
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/369929560\n \n\nFri\, Aug 29\n7:00 AM EDT\n[Port Of Call] Port 
+ Of Call - PERFECT DAY COCOCAY\, BAHAMAS\nSTAR OF THE SEAS\nPERFECT DAY COC
+ OCAY\, BAHAMAS\, PERFECT DAY COCOCAY\, BAHAMAS\n5:00 PM EDT\nDepart PERFEC
+ T DAY COCOCAY\, BAHAMAS\nAll times displayed on this itinerary are local.\
+ n \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:25.8178634;-77.938883
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:ORLANDO (PORT CANAVERAL)\, FL\; ORLANDO (PORT CANAVERAL)\, FL
+UID:item-3cb2be71-81b7-9000-0003-00013165031d@tripit.com
+DTSTART:20250831T100000Z
+DTEND:20250831T110000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/369929560\n \n\nSun\, Aug 31\n6:00 AM EDT\n[Cruise] Disembark -
+  Royal Caribbean\nSTAR OF THE SEAS\nORLANDO (PORT CANAVERAL)\, FL\, ORLAND
+ O (PORT CANAVERAL)\, FL\n \n\n \nTripIt - organize your travel at https://
+ www.tripit.com
+GEO:28.5383832;-81.3789269
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:5a8354c0-7596-9000-0001-000015b2061d@tripit.com
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250913
+SUMMARY:Navigator - Los Angeles\, CA\, September 2025
+LOCATION:Los Angeles\, CA
+GEO:34.05223;-118.24368
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Los Angeles\, CA from Sep 8 to 12\, 2025\nV
+ iew and/or edit details in TripIt : https://www.tripit.com/trip/show?id=36
+ 3988509\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250908T155100Z
+SUMMARY:AA1668 PHX to LAX
+LOCATION:Phoenix (PHX)
+UID:item-899a3b64-5669-9000-0003-000132470591@tripit.com
+DTSTART:20250908T142500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\nMon\, Sep 8\n7:25 AM MST\n[Flight] PHX to LAX\n
+  \n\nAmerican Airlines 1668\, Terminal \, Gate \n \n\n8:51 AM PDT\nArrive 
+ Los Angeles (LAX)\nTerminal \, Gate \n \n\n \nTripIt - organize your trave
+ l at https://www.tripit.com
+GEO:34.05223;-118.24368
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-6e717149-7c33-9000-0003-000127bf2931@tripit.com
+DTSTART:20250908T230000Z
+DTEND:20250909T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\n4:00 PM PDT\n[Cruise] Embark - Royal Caribbean\
+ nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELES\, CALIFORNI
+ A\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-c4885bcf-94e8-9000-0003-000127bf2935@tripit.com
+DTSTART:20250910T150000Z
+DTEND:20250910T160000Z
+SUMMARY:Port Of Call - CATALINA ISLAND\, CALIFORNIA
+LOCATION:CATALINA ISLAND\, CALIFORNIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\nWed\, Sep 10\n8:00 AM PDT\n[Port Of Call] Port 
+ Of Call - CATALINA ISLAND\, CALIFORNIA\nNAVIGATOR OF THE SEAS\nCATALINA IS
+ LAND\, CALIFORNIA\, CATALINA ISLAND\, CALIFORNIA\n5:00 PM PDT\nDepart CATA
+ LINA ISLAND\, CALIFORNIA\nAll times displayed on this itinerary are local.
+ \n \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:33.3878856;-118.4163103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-d22010a2-3b7e-9000-0003-000127bf2939@tripit.com
+DTSTART:20250911T150000Z
+DTEND:20250911T160000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\nThu\, Sep 11\n8:00 AM PDT\n[Port Of Call] Port 
+ Of Call - ENSENADA\, MEXICO\nNAVIGATOR OF THE SEAS\nENSENADA\, MEXICO\, EN
+ SENADA\, MEXICO\n5:00 PM PDT\nDepart ENSENADA\, MEXICO\nAll times displaye
+ d on this itinerary are local.\n \n\nTripIt - organize your travel at http
+ s://www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-b8b12a19-b0f8-9000-0003-000127bf293d@tripit.com
+DTSTART:20250912T140000Z
+DTEND:20250912T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\nFri\, Sep 12\n7:00 AM PDT\n[Cruise] Disembark -
+  Royal Caribbean\nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS AN
+ GELES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.t
+ ripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250912T182300Z
+SUMMARY:AA2312 LAX to PHX
+LOCATION:Los Angeles (LAX)
+UID:item-fe80d459-d9e0-9000-0003-000132470599@tripit.com
+DTSTART:20250912T165500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/363988509\n \n\n9:55 AM PDT\n[Flight] LAX to PHX\n \n\nAmerican
+  Airlines 2312\, Terminal \, Gate \n \n\n11:23 AM MST\nArrive Phoenix (PHX
+ )\nTerminal \, Gate \n \n\n \nTripIt - organize your travel at https://www
+ .tripit.com
+GEO:33.44838;-112.07404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:c84846e2-1939-9000-0001-000015bc4bc7@tripit.com
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250920
+SUMMARY:Navigator - Los Angeles\, CA\, September 2025
+LOCATION:Los Angeles\, CA
+GEO:34.05223;-118.24368
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Los Angeles\, CA from Sep 15 to 19\, 2025\n
+ View and/or edit details in TripIt : https://www.tripit.com/trip/show?id=3
+ 64661703\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250915T155100Z
+SUMMARY:AA1668 PHX to LAX
+LOCATION:Phoenix (PHX)
+UID:item-904fc896-f086-9000-0003-000132470675@tripit.com
+DTSTART:20250915T142500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\nMon\, Sep 15\n7:25 AM MST\n[Flight] PHX to LAX\
+ n \n\nAmerican Airlines 1668\, Terminal \, Gate \n \n\n8:51 AM PDT\nArrive
+  Los Angeles (LAX)\nTerminal \, Gate \n \n\n \nTripIt - organize your trav
+ el at https://www.tripit.com
+GEO:34.05223;-118.24368
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-39b736dc-2f61-9000-0003-000128d16605@tripit.com
+DTSTART:20250915T230000Z
+DTEND:20250916T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\n4:00 PM PDT\n[Cruise] Embark - Royal Caribbean\
+ nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELES\, CALIFORNI
+ A\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-ddc2f6c5-94c2-9000-0003-000128d16609@tripit.com
+DTSTART:20250917T150000Z
+DTEND:20250917T160000Z
+SUMMARY:Port Of Call - CATALINA ISLAND\, CALIFORNIA
+LOCATION:CATALINA ISLAND\, CALIFORNIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\nWed\, Sep 17\n8:00 AM PDT\n[Port Of Call] Port 
+ Of Call - CATALINA ISLAND\, CALIFORNIA\nNAVIGATOR OF THE SEAS\nCATALINA IS
+ LAND\, CALIFORNIA\, CATALINA ISLAND\, CALIFORNIA\n5:00 PM PDT\nDepart CATA
+ LINA ISLAND\, CALIFORNIA\nAll times displayed on this itinerary are local.
+ \n \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:33.3878856;-118.4163103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-d643bfe4-ae6e-9000-0003-000128d1660d@tripit.com
+DTSTART:20250918T150000Z
+DTEND:20250918T160000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\nThu\, Sep 18\n8:00 AM PDT\n[Port Of Call] Port 
+ Of Call - ENSENADA\, MEXICO\nNAVIGATOR OF THE SEAS\nENSENADA\, MEXICO\, EN
+ SENADA\, MEXICO\n5:00 PM PDT\nDepart ENSENADA\, MEXICO\nAll times displaye
+ d on this itinerary are local.\n \n\nTripIt - organize your travel at http
+ s://www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-d5aa5010-1f72-9000-0003-000128d16611@tripit.com
+DTSTART:20250919T140000Z
+DTEND:20250919T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\nFri\, Sep 19\n7:00 AM PDT\n[Cruise] Disembark -
+  Royal Caribbean\nNAVIGATOR OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS AN
+ GELES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.t
+ ripit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+DTEND:20250919T182300Z
+SUMMARY:AA2312 LAX to PHX
+LOCATION:Los Angeles (LAX)
+UID:item-91dfa1d2-a148-9000-0003-00013247067d@tripit.com
+DTSTART:20250919T165500Z
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/364661703\n \n\n9:55 AM PDT\n[Flight] LAX to PHX\n \n\nAmerican
+  Airlines 2312\, Terminal \, Gate \n \n\n11:23 AM MST\nArrive Phoenix (PHX
+ )\nTerminal \, Gate \n \n\n \nTripIt - organize your travel at https://www
+ .tripit.com
+GEO:33.44838;-112.07404
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:650575d3-5de8-9000-0001-00001605356b@tripit.com
+DTSTART;VALUE=DATE:20250919
+DTEND;VALUE=DATE:20250923
+SUMMARY:justin At Portola Festival
+LOCATION:San Francisco\, CA
+GEO:37.77493;-122.41942
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in San Francisco\, CA from Sep 19 to 22\, 2025
+ \nView and/or edit details in TripIt : https://www.tripit.com/trip/show?id
+ =369440107\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:d47cefc0-3438-9000-0001-000015cd62de@tripit.com
+DTSTART;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20251005
+SUMMARY:Radiance Of The Seas Vancouver To San Diego\, CA\, September 2025
+LOCATION:San Diego\, CA
+GEO:32.71571;-117.16472
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in San Diego\, CA from Sep 26 to Oct 4\, 2025\
+ nView and/or edit details in TripIt : https://www.tripit.com/trip/show?id=
+ 365781726\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:VANCOUVER\, BRITISH COLUMBIA\; VANCOUVER\, BRITISH COLUMBIA
+UID:item-c258e7e0-8604-9000-0003-00012aa3d919@tripit.com
+DTSTART:20250926T230000Z
+DTEND:20250927T000000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365781726\n \n\nFri\, Sep 26\n4:00 PM PDT\n[Cruise] Embark - Ro
+ yal Caribbean\nRADIANCE OF THE SEAS\nVANCOUVER\, BRITISH COLUMBIA\, VANCOU
+ VER\, BRITISH COLUMBIA\n \n\n \nTripIt - organize your travel at https://w
+ ww.tripit.com
+GEO:49.2827291;-123.1207375
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-f373b443-87c0-9000-0003-00012aa3d91d@tripit.com
+DTSTART:20250927T183000Z
+DTEND:20250927T193000Z
+SUMMARY:Port Of Call - ASTORIA\, OREGON
+LOCATION:ASTORIA\, OREGON
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365781726\n \n\nSat\, Sep 27\n11:30 AM PDT\n[Port Of Call] Port
+  Of Call - ASTORIA\, OREGON\nRADIANCE OF THE SEAS\nASTORIA\, OREGON\, ASTO
+ RIA\, OREGON\n7:00 PM PDT\nDepart ASTORIA\, OREGON\nAll times displayed on
+  this itinerary are local.\n \n\nTripIt - organize your travel at https://
+ www.tripit.com
+GEO:46.1878841;-123.8312534
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-22cb36c5-f33b-9000-0003-00012aa3d921@tripit.com
+DTSTART:20250929T170000Z
+DTEND:20250929T180000Z
+SUMMARY:Port Of Call - SAN FRANCISCO\, CALIFORNIA
+LOCATION:SAN FRANCISCO\, CALIFORNIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365781726\n \n\nMon\, Sep 29\n10:00 AM PDT\n[Port Of Call] Port
+  Of Call - SAN FRANCISCO\, CALIFORNIA\nRADIANCE OF THE SEAS\nSAN FRANCISCO
+ \, CALIFORNIA\, SAN FRANCISCO\, CALIFORNIA\n \nTue\, Sep 308:00 PM PDT\nDe
+ part SAN FRANCISCO\, CALIFORNIA\nAll times displayed on this itinerary are
+  local.\n \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:37.615215;-122.389881
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-0adb982e-b76a-9000-0003-00012aa3d925@tripit.com
+DTSTART:20251003T150000Z
+DTEND:20251003T160000Z
+SUMMARY:Port Of Call - CATALINA ISLAND\, CALIFORNIA
+LOCATION:CATALINA ISLAND\, CALIFORNIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365781726\n \n\nFri\, Oct 3\n8:00 AM PDT\n[Port Of Call] Port O
+ f Call - CATALINA ISLAND\, CALIFORNIA\nRADIANCE OF THE SEAS\nCATALINA ISLA
+ ND\, CALIFORNIA\, CATALINA ISLAND\, CALIFORNIA\n5:00 PM PDT\nDepart CATALI
+ NA ISLAND\, CALIFORNIA\nAll times displayed on this itinerary are local.\n
+  \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:33.3878856;-118.4163103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:SAN DIEGO\, CALIFORNIA\; SAN DIEGO\, CALIFORNIA
+UID:item-7eef4d7e-4bb4-9000-0003-00012aa3d929@tripit.com
+DTSTART:20251004T140000Z
+DTEND:20251004T150000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365781726\n \n\nSat\, Oct 4\n7:00 AM PDT\n[Cruise] Disembark - 
+ Royal Caribbean\nRADIANCE OF THE SEAS\nSAN DIEGO\, CALIFORNIA\, SAN DIEGO\
+ , CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.tripit.
+ com
+GEO:32.731938;-117.197312
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:348a1eb8-02ab-9000-0001-000015cbab8c@tripit.com
+DTSTART;VALUE=DATE:20251016
+DTEND;VALUE=DATE:20251026
+SUMMARY:Liberty Of The Seas - Two For Free -New Engalnd - Bayonne\, NJ\, O
+ ctober 2025
+LOCATION:Bayonne\, NJ
+GEO:40.66871;-74.11431
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Bayonne\, NJ from Oct 16 to 25\, 2025\nView
+  and/or edit details in TripIt : https://www.tripit.com/trip/show?id=36566
+ 9260\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:CAPE LIBERTY\, NJ (NY METRO)\; CAPE LIBERTY\, NJ (NY METRO)
+UID:item-61665d79-5c16-9000-0003-00012a74c08d@tripit.com
+DTSTART:20251016T200000Z
+DTEND:20251016T210000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nThu\, Oct 16\n4:00 PM EDT\n[Cruise] Embark - Ro
+ yal Caribbean\nLIBERTY OF THE SEAS\nCAPE LIBERTY\, NJ (NY METRO)\, CAPE LI
+ BERTY\, NJ (NY METRO)\n \n\n \nTripIt - organize your travel at https://ww
+ w.tripit.com
+GEO:40.6647169;-74.0720672
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-3581cf4f-42fa-9000-0003-00012a74c091@tripit.com
+DTSTART:20251018T120000Z
+DTEND:20251018T130000Z
+SUMMARY:Port Of Call - BOSTON\, MASSACHUSETTS
+LOCATION:BOSTON\, MASSACHUSETTS
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nSat\, Oct 18\n8:00 AM EDT\n[Port Of Call] Port 
+ Of Call - BOSTON\, MASSACHUSETTS\nLIBERTY OF THE SEAS\nBOSTON\, MASSACHUSE
+ TTS\, BOSTON\, MASSACHUSETTS\n6:00 PM EDT\nDepart BOSTON\, MASSACHUSETTS\n
+ All times displayed on this itinerary are local.\n \n\nTripIt - organize y
+ our travel at https://www.tripit.com
+GEO:42.36646;-71.020176
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-370ef41f-b689-9000-0003-00012a74c095@tripit.com
+DTSTART:20251019T120000Z
+DTEND:20251019T130000Z
+SUMMARY:Port Of Call - PORTLAND\, MAINE
+LOCATION:PORTLAND\, MAINE
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nSun\, Oct 19\n8:00 AM EDT\n[Port Of Call] Port 
+ Of Call - PORTLAND\, MAINE\nLIBERTY OF THE SEAS\nPORTLAND\, MAINE\, PORTLA
+ ND\, MAINE\n6:00 PM EDT\nDepart PORTLAND\, MAINE\nAll times displayed on t
+ his itinerary are local.\n \n\nTripIt - organize your travel at https://ww
+ w.tripit.com
+GEO:43.647492;-70.310307
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-23f82dc0-4630-9000-0003-00012a74c099@tripit.com
+DTSTART:20251021T110000Z
+DTEND:20251021T120000Z
+SUMMARY:Port Of Call - SYDNEY\, NOVA SCOTIA
+LOCATION:SYDNEY\, NOVA SCOTIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nTue\, Oct 21\n8:00 AM ADT\n[Port Of Call] Port 
+ Of Call - SYDNEY\, NOVA SCOTIA\nLIBERTY OF THE SEAS\nSYDNEY\, NOVA SCOTIA\
+ , SYDNEY\, NOVA SCOTIA\n5:00 PM ADT\nDepart SYDNEY\, NOVA SCOTIA\nAll time
+ s displayed on this itinerary are local.\n \n\nTripIt - organize your trav
+ el at https://www.tripit.com
+GEO:46.1367899;-60.194224
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-ab50eb40-1081-9000-0003-00012a74c09d@tripit.com
+DTSTART:20251022T110000Z
+DTEND:20251022T120000Z
+SUMMARY:Port Of Call - HALIFAX\, NOVA SCOTIA
+LOCATION:HALIFAX\, NOVA SCOTIA
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nWed\, Oct 22\n8:00 AM ADT\n[Port Of Call] Port 
+ Of Call - HALIFAX\, NOVA SCOTIA\nLIBERTY OF THE SEAS\nHALIFAX\, NOVA SCOTI
+ A\, HALIFAX\, NOVA SCOTIA\n5:00 PM ADT\nDepart HALIFAX\, NOVA SCOTIA\nAll 
+ times displayed on this itinerary are local.\n \n\nTripIt - organize your 
+ travel at https://www.tripit.com
+GEO:44.6508608;-63.5923256
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-fb89ab7f-ad2d-9000-0003-00012a74c0a1@tripit.com
+DTSTART:20251023T145900Z
+DTEND:20251023T155900Z
+SUMMARY:Port Of Call - SAINT JOHN\,NB (BAY OF FUNDY)
+LOCATION:SAINT JOHN\,NB (BAY OF FUNDY)
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nThu\, Oct 23\n11:59 AM ADT\n[Port Of Call] Port
+  Of Call - SAINT JOHN\,NB (BAY OF FUNDY)\nLIBERTY OF THE SEAS\nSAINT JOHN\
+ ,NB (BAY OF FUNDY)\, SAINT JOHN\,NB (BAY OF FUNDY)\n11:35 PM ADT\nDepart S
+ AINT JOHN\,NB (BAY OF FUNDY)\nAll times displayed on this itinerary are lo
+ cal.\n \n\nTripIt - organize your travel at https://www.tripit.com
+GEO:45.2733153;-66.0633081
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:CAPE LIBERTY\, NJ (NY METRO)\; CAPE LIBERTY\, NJ (NY METRO)
+UID:item-d1571b50-1bc5-9000-0003-00012a74c0a5@tripit.com
+DTSTART:20251025T110000Z
+DTEND:20251025T120000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365669260\n \n\nSat\, Oct 25\n7:00 AM EDT\n[Cruise] Disembark -
+  Royal Caribbean\nLIBERTY OF THE SEAS\nCAPE LIBERTY\, NJ (NY METRO)\, CAPE
+  LIBERTY\, NJ (NY METRO)\n \n\n \nTripIt - organize your travel at https:/
+ /www.tripit.com
+GEO:40.6647169;-74.0720672
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:ec836ca8-fe79-9000-0001-000016150d06@tripit.com
+DTSTART;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251117
+SUMMARY:Zachs Wedding
+LOCATION:Phoenix\, AZ
+GEO:33.44838;-112.07404
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Phoenix\, AZ from Nov 14 to 16\, 2025\nView
+  and/or edit details in TripIt : https://www.tripit.com/trip/show?id=37047
+ 8342\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:c60f4ed6-76f2-9000-0001-000015ce8c87@tripit.com
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251122
+SUMMARY:Quantum Of The Seas (for Two People) - Los Angeles\, CA\, November
+  2025
+LOCATION:Los Angeles\, CA
+GEO:34.05223;-118.24368
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Los Angeles\, CA from Nov 17 to 21\, 2025\n
+ View and/or edit details in TripIt : https://www.tripit.com/trip/show?id=3
+ 65857927\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-64036a00-dc31-9000-0003-00012ac15229@tripit.com
+DTSTART:20251118T000000Z
+DTEND:20251118T010000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365857927\n \n\nMon\, Nov 17\n4:00 PM PST\n[Cruise] Embark - Ro
+ yal Caribbean\nQUANTUM OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGELES
+ \, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.tripit
+ .com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-f5085d42-0f88-9000-0003-00012ac1522d@tripit.com
+DTSTART:20251118T160000Z
+DTEND:20251118T170000Z
+SUMMARY:Port Of Call - ENSENADA\, MEXICO
+LOCATION:ENSENADA\, MEXICO
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365857927\n \n\nTue\, Nov 18\n8:00 AM PST\n[Port Of Call] Port 
+ Of Call - ENSENADA\, MEXICO\nQUANTUM OF THE SEAS\nENSENADA\, MEXICO\, ENSE
+ NADA\, MEXICO\n6:00 PM PST\nDepart ENSENADA\, MEXICO\nAll times displayed 
+ on this itinerary are local.\n \n\nTripIt - organize your travel at https:
+ //www.tripit.com
+GEO:31.87149;-116.60071
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:LOS ANGELES\, CALIFORNIA\; LOS ANGELES\, CALIFORNIA
+UID:item-cbc398c7-5f02-9000-0003-00012ac15235@tripit.com
+DTSTART:20251121T150000Z
+DTEND:20251121T160000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/365857927\n \n\nFri\, Nov 21\n7:00 AM PST\n[Cruise] Disembark -
+  Royal Caribbean\nQUANTUM OF THE SEAS\nLOS ANGELES\, CALIFORNIA\, LOS ANGE
+ LES\, CALIFORNIA\n \n\n \nTripIt - organize your travel at https://www.tri
+ pit.com
+GEO:33.943399;-118.408279
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:9812d318-b023-9000-0001-0000161508cd@tripit.com
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251216
+SUMMARY:Quantum Of The Seas -Los Angeles\, CA\, December 2025
+LOCATION:Los Angeles\, CA
+GEO:34.05223;-118.24368
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Los Angeles\, CA from Dec 5 to 15\, 2025\nV
+ iew and/or edit details in TripIt : https://www.tripit.com/trip/show?id=37
+ 0477261\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:Cabo San Lucas\, Mexico\; Cabo San Lucas\, Mexico
+UID:item-e8e1b0cb-10e7-9000-0003-00013247aad1@tripit.com
+DTSTART:20251208T200000Z
+DTEND:20251208T210000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/370477261\n \n\nMon\, Dec 8\n1:00 PM MST\n[Cruise] Embark - Roy
+ al Caribbean\nQuantum of the Seas\nCabo San Lucas\, Mexico\, Cabo San Luca
+ s\, Mexico\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+GEO:22.89088;-109.91238
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:San Pedro (Los Angeles)\, California\; San Pedro (Los Angeles)\, 
+ California
+UID:item-0d16619c-c43c-9000-0003-00013247a999@tripit.com
+DTSTART:20251211T000000Z
+DTEND:20251211T010000Z
+SUMMARY:Embark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/370477261\n \n\nWed\, Dec 10\n4:00 PM PST\n[Cruise] Embark - Ro
+ yal Caribbean\nQuantum of the Seas\nSan Pedro (Los Angeles)\, California\,
+  San Pedro (Los Angeles)\, California\n \n\n \nTripIt - organize your trav
+ el at https://www.tripit.com
+GEO:33.7360696;-118.2923791
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:item-fa4cb255-cc48-9000-0003-00013247a99d@tripit.com
+DTSTART:20251212T200000Z
+DTEND:20251212T210000Z
+SUMMARY:Port Of Call - Cabo San Lucas\, Mexico
+LOCATION:Cabo San Lucas\, Mexico
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/370477261\n \n\nFri\, Dec 12\n1:00 PM MST\n[Port Of Call] Port 
+ Of Call - Cabo San Lucas\, Mexico\nQuantum of the Seas\nCabo San Lucas\, M
+ exico\, Cabo San Lucas\, Mexico\n \nSat\, Dec 131:00 PM MST\nDepart Cabo S
+ an Lucas\, Mexico\nAll times displayed on this itinerary are local.\n \n\n
+ TripIt - organize your travel at https://www.tripit.com
+GEO:22.89088;-109.91238
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:Friday\, December 05\, 2025\; Friday\, December 05\, 2025
+UID:item-f6d5ff2b-b5dd-9000-0003-00013247aad5@tripit.com
+DTSTART:20251213T230000Z
+DTEND:20251214T000000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/370477261\n \n\n4:00 PM MST\n[Cruise] Disembark - Royal Caribbe
+ an\nQuantum of the Seas\nFriday\, December 05\, 2025\, Friday\, December 0
+ 5\, 2025\n \n\n \nTripIt - organize your travel at https://www.tripit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+LOCATION:San Pedro (Los Angeles)\, California\; San Pedro (Los Angeles)\, 
+ California
+UID:item-c49e2ab1-c0d7-9000-0003-00013247a9a1@tripit.com
+DTSTART:20251215T150000Z
+DTEND:20251215T160000Z
+SUMMARY:Disembark - Royal Caribbean
+DESCRIPTION:View and/or edit details in TripIt : https://www.tripit.com/tr
+ ip/show/id/370477261\n \n\nMon\, Dec 15\n7:00 AM PST\n[Cruise] Disembark -
+  Royal Caribbean\nQuantum of the Seas\nSan Pedro (Los Angeles)\, Californi
+ a\, San Pedro (Los Angeles)\, California\n \n\n \nTripIt - organize your t
+ ravel at https://www.tripit.com
+GEO:33.7360696;-118.2923791
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:9a614aaa-43a5-9000-0001-0000159336a5@tripit.com
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260223
+SUMMARY:2026 Vacaya Caribbean Nieuw Statendam
+LOCATION:Miami\, FL
+GEO:25.77427;-80.19366
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Miami\, FL from Feb 15 to 22\, 2026\nView a
+ nd/or edit details in TripIt : https://www.tripit.com/trip/show?id=3619693
+ 17\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:a7e43288-fcc9-9000-0001-000015ce4022@tripit.com
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260413
+SUMMARY:Celebrity Xcel - Dads 80 Bday
+LOCATION:Fort Lauderdale\, FL
+GEO:26.12231;-80.14338
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Fort Lauderdale\, FL from Apr 5 to 12\, 202
+ 6\nView and/or edit details in TripIt : https://www.tripit.com/trip/show?i
+ d=365838370\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T155622Z
+UID:ed7c1880-c94a-9000-0001-000015933682@tripit.com
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260718
+SUMMARY:Vacaya - 2026 Eclipse On Celebrity Eclipse
+LOCATION:Barcelona\, Spain
+GEO:41.38879;2.15899
+TRANSP:TRANSPARENT
+DESCRIPTION:Scott Merlis is in Barcelona\, Spain from Jul 10 to 17\, 2026\
+ nView and/or edit details in TripIt : https://www.tripit.com/trip/show?id=
+ 361969282\nTripIt - organize your travel at https://www.tripit.com\n
+END:VEVENT
+END:VCALENDAR

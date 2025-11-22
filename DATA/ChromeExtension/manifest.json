@@ -1,0 +1,26 @@
+{
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "club-royale-offers@percex.local",
+         "strict_min_version": "102.0"
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "styles/table-base.css", "styles/table-columns.css", "styles/accordion.css", "styles/ui.css", "styles/tabs-badges.css", "styles/itinerary.css", "styles/advanced-search.css" ],
+      "js": [ "utils/utils_core.js", "utils/utils_row.js", "utils/domUtils.js", "utils/errorHandler.js", "utils/sortUtils.js", "utils/apiClient.js", "features/storageShim.js", "features/itinerary.js", "features/profileIdManager.js", "features/buttonManager.js", "features/spinner.js", "features/accordionBuilder.js", "features/favorites.js", "features/offerCodeLookup.js", "features/filtering.js", "features/whatsNew.js", "features/breadcrumbs.js", "styles.js", "modal.js", "tableBuilder.js", "tableRenderer.js", "app.js" ],
+      "matches": [ "https://*.royalcaribbean.com/club-royale/*", "https://*.celebritycruises.com/blue-chip-club/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "View Royal Caribbean & Celebrity comp offers in a sortable, groupable table and accordion.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuLN0UzCctRcue+J/KWdPKa/b8VwEsb5K/Q+TV8vqANE4wyCPW+PqEY68+W7z+f3o66JmZiJht/kl0MMEKYUakF9AHXs7cxwEIMXVGdRmt4WWX8sMh349Y0bbGh/ELfGEmkWtNWq/9EWq2oiuKpDxp3rjTsF7mdRSdYIqr8Y0K2kSlrw4Ojs6r0v8bDa6AnKmy282eDTn69YM3gQC0NsDFhVBY9dlovYhJjg+mgCM5JqSui/Qbt9UnfttZZvCyZNuK/NeJ+aC2xMLoD3/E6Y15PgzPUE9/4SwJHqq0hTa1iY7bQNcid/g3DibtMwP7azWO4EVwv6r1jVYfJQ7rYA1/QIDAQAB",
+   "manifest_version": 3,
+   "name": "Club Royale and Blue Chip Club Offers Viewer",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5",
+   "web_accessible_resources": [ {
+      "extension_pages": true,
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "images/*" ]
+   } ]
+}
