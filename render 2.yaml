@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: cruise-mobile-app
+    env: node
+    plan: starter
+    buildCommand: bun install && bun run build
+    startCommand: bun run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATA_DIR
+        value: /data/DATA
+      - key: PERSISTENT_STORAGE
+        value: enabled
+    disk:
+      name: cruise-data
+      mountPath: /data
+      sizeGB: 1
